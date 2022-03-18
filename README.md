@@ -1,7 +1,16 @@
-# frontend_workspace_old
+# autumn_frontend
 旧カリキュラム用作業リポジトリ
 
 <br>
+## ドキュメント（運用マニュアル）
+https://github.com/Kurogoma939/autumn_curriculum_docs
+
+### !! 命名規則もあるので必ず上記リポジトリのREADMEは一読すること !!
+<br /><br />
+
+## 管理スプレッドシート
+https://docs.google.com/spreadsheets/d/1U9LFo-4XtFK7y10jNKO7snRLKP6k1mmWKzxaAkMWv1I/edit?usp=sharing
+<br /><br />
 
 ## カリキュラムの導入
 
@@ -62,3 +71,6 @@ git checkout ブランチ名
 ###### npm install & 実行
 `$ npm install`
 `$ npm run start`
+
+
+
